@@ -2,3 +2,4 @@
 .ruby-version
 Gemfile.local
 Gemfile.lock
+spec/examples.txt
