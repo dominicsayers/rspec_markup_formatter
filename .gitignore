@@ -1,0 +1,6 @@
+.bundle
+.ruby-version
+coverage
+Gemfile.local
+Gemfile.lock
+spec/examples.txt
